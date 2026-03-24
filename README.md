@@ -70,7 +70,7 @@
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/your-username  
+- GitHub: https://github.com/ashishcornelio  
 - Instagram: @ashishcornelio  
 
 ---
