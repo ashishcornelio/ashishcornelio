@@ -4,31 +4,25 @@
 
 ---
 
-## 🧠 About Me
-
-- 💻 Passionate about **building software and web applications**
-- 🌐 Currently learning and exploring **web development**
-- ⚡ Interested in combining **technology with real-world use cases**
-- 🎯 Always curious to learn new tools and technologies  
+# 💫 About Me:
+- 💻 Passionate about building **web applications**
+- 🌐 Currently learning **React.js & Node.js**
+- ⚡ Interested in solving real-world problems using technology
+- 🎯 Always exploring new tools and technologies  
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ashishcornelio)
 
-### 💻 Programming & Development
-- HTML, CSS
-- JavaScript (Basics)
-- Python (Basics)
-- C Programming (Basics)
+---
 
-### 🔌 Electronics & Hardware
-- Arduino (Basics)
-- Basic circuit design
-
-### 🌐 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Linux (basic usage)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -52,14 +46,6 @@
 
 ---
 
-## 🎯 Goals
-
-- Build scalable full-stack applications  
-- Explore AI-powered solutions  
-- Continuously improve development skills  
-
----
-
 ## 🎯 Hobbies
 
 - 🤖 Robotics  
@@ -68,13 +54,18 @@
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashishcornelio&theme=dark&hide_border=false&include_all_commits=true)
 
-- GitHub: https://github.com/ashishcornelio  
-- Instagram: @ashishcornelio  
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashishcornelio&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishcornelio&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-## ⚡ Fun Fact
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ashishcornelio&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-I enjoy exploring how **software and hardware can work together** to create impactful solutions 🚀
+---
+
+[![](https://visitcount.itsvg.in/api?id=ashishcornelio&icon=2&color=8)](https://visitcount.itsvg.in)
