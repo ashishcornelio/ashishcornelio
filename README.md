@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 - 💻 Passionate about building **web applications**
-- 🌐 Currently learning **hnml & css**
+- 🌐 Currently learning **html & css**
 - ⚡ Interested in solving real-world problems using technology
 - 🎯 Always exploring new tools and technologies  
 
