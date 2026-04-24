@@ -25,17 +25,6 @@
 
 ---
 
-## 🔥 Projects
-
-### 📅 ApnaCalendar
-- A custom calendar-based web application  
-- Designed for organizing and managing events  
-
-### 👨‍👩‍👧 ApnaParivar
-- A platform focused on family/community connection  
-- Built with web technologies  
-
----
 
 ## 📚 Currently Learning
 
