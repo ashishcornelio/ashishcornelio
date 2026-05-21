@@ -1,14 +1,32 @@
 # 👋 Hi, I'm Ashish Cornelio
-
-🚀 Tech Enthusiast | 💻 Developer  
+🚀 Tech Enthusiast | 💻 Developer
 
 ---
-
 # 💫 About Me:
+
+<img
+  align="right"
+  alt="Hiiiii GIF"
+  width="350"
+  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl0ZGIwbzRycm9reThyOXN3emdlYzU3bzg1dzBoaG44MnA2ZzY4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4nk5bgwpWL6T5Ax9y/giphy.gif"
+/>
+
+<p align="left">
+  <img
+    alt="Touch GIF"
+    width="350"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw2ZzV3anBvY2NxbG1ubnNwZDZwN241bHBzcXBsYXlzb25uYnQ2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/quS68UvJykTEiZLF5A/giphy.gif"
+  />
+</p>
+
+
 - 💻 Passionate about building **web applications**
 - 🌐 Currently learning **html & css**
 - ⚡ Interested in solving real-world problems using technology
 - 🎯 Always exploring new tools and technologies  
+
+<br>
+<br>
 
 ---
 
